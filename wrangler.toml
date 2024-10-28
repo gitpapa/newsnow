@@ -3,6 +3,6 @@ pages_build_output_dir = "dist/output/public"
 compatibility_date = "2024-10-03"
 
 [[d1_databases]]
-binding = "DATABASE"
-database_name = "damp-tree-503a-db"
-database_id = "cc15192a-ef41-4b46-a89e-6a91f3fb7862"
+binding = "NEWSNOW_DB"
+database_name = "newsnow-db"
+database_id = "ec51486c-6716-4355-9126-ea345c6d2e2f"
